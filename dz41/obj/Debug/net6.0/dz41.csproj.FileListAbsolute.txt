@@ -1,0 +1,15 @@
+C:\Users\Arteeis\Desktop\DZ6\dz41\bin\Debug\net6.0\dz41.exe
+C:\Users\Arteeis\Desktop\DZ6\dz41\bin\Debug\net6.0\dz41.deps.json
+C:\Users\Arteeis\Desktop\DZ6\dz41\bin\Debug\net6.0\dz41.runtimeconfig.json
+C:\Users\Arteeis\Desktop\DZ6\dz41\bin\Debug\net6.0\dz41.dll
+C:\Users\Arteeis\Desktop\DZ6\dz41\bin\Debug\net6.0\dz41.pdb
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.csproj.AssemblyReference.cache
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.AssemblyInfoInputs.cache
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.AssemblyInfo.cs
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.csproj.CoreCompileInputs.cache
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.dll
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\refint\dz41.dll
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.pdb
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\dz41.genruntimeconfig.cache
+C:\Users\Arteeis\Desktop\DZ6\dz41\obj\Debug\net6.0\ref\dz41.dll
